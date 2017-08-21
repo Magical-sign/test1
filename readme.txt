@@ -10,4 +10,5 @@ Creating a new branch is quick and simple
 hello world
 >>>>>>> Stashed changes
 
+<<<<<<< HEAD
 ±¾µØ
